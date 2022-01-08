@@ -1,0 +1,25 @@
+.landing-page{
+    position:absolute;
+    top: 200px;
+    max-width: 69%;
+    border-radius: 5px;
+    margin-left: 1.5rem;
+    padding: 1.5rem;
+    
+    color:white;
+    
+}
+.home-image{
+    padding-right: 0 !important;
+}
+
+.webpic{
+    padding-top: 8rem;
+    filter:drop-shadow(-7px 7px 10px #000000 );
+}
+.row{
+    margin-right: 0 !important;
+}
+.home_bank{
+    color: #ff776b;
+}

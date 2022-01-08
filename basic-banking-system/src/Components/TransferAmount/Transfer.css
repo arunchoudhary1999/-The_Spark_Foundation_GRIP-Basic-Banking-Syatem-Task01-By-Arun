@@ -1,0 +1,20 @@
+.transfer-card{
+    position: absolute;
+    top:6rem;
+    margin-left: 40%;
+    max-width: 19rem;
+    /* border: 5px solid black; */
+    filter: drop-shadow(-10px 10px 15px #363535);
+}
+.Buttons{
+    margin-left: 1.5rem;
+}
+.sender{
+    width: fit-content;
+}
+.contentrow{
+    margin-top: 1.5rem;
+}
+.avatar{
+    margin-top: 1.5rem;
+}
